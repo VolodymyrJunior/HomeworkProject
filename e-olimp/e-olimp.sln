@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "e-olimp", "e-olimp\e-olimp.vcxproj", "{C0A894FF-0C7D-4207-86FA-F6FA4DF8227C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "e-olimp", "e-olimp.vcxproj", "{0007BAD0-66C9-45C4-83BE-0ABB0027354A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0A894FF-0C7D-4207-86FA-F6FA4DF8227C}.Debug|Win32.ActiveCfg = Debug|Win32
-		{C0A894FF-0C7D-4207-86FA-F6FA4DF8227C}.Debug|Win32.Build.0 = Debug|Win32
-		{C0A894FF-0C7D-4207-86FA-F6FA4DF8227C}.Release|Win32.ActiveCfg = Release|Win32
-		{C0A894FF-0C7D-4207-86FA-F6FA4DF8227C}.Release|Win32.Build.0 = Release|Win32
+		{0007BAD0-66C9-45C4-83BE-0ABB0027354A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0007BAD0-66C9-45C4-83BE-0ABB0027354A}.Debug|Win32.Build.0 = Debug|Win32
+		{0007BAD0-66C9-45C4-83BE-0ABB0027354A}.Release|Win32.ActiveCfg = Release|Win32
+		{0007BAD0-66C9-45C4-83BE-0ABB0027354A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
